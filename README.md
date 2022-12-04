@@ -6,11 +6,17 @@
  
  
 
-<br />![ image](https://user-images.githubusercontent.com/69744429/193052511-8e4bcd76-cc75-4156-866e-f9279a76971a.jpeg)
+<br />![maxresdefault](https://user-images.githubusercontent.com/89565071/205483401-bb671b3d-d4c2-44bc-a5a7-a7b43da3bcf1.jpg)
 
 
 
 <br />
+
+<div align=center>
+나를 죽이지 못하는 고통은 나를 더 강하게 만든다.<br>
+2022-12-04 알고리즘 독립기념일 
+</div>
+
 <br />
 
 
