@@ -1,4 +1,4 @@
-package PGS.lv1;
+package PGS_SUM.lv1;
 
 public class 최댓값구하기 {
 //### SQL ORACLE(통과)

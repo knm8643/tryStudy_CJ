@@ -1,4 +1,4 @@
-package PGS.lv0;
+package PGS_SUM.lv0;
 
 public class 머쓱이보다키큰사람 {
     class Solution {

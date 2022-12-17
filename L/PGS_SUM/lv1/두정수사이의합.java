@@ -1,4 +1,4 @@
-package PGS.lv1;
+package PGS_SUM.lv1;
 
 public class 두정수사이의합 {
     class Solution {

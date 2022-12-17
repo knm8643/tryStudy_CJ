@@ -1,4 +1,4 @@
-package PGS.lv0;
+package PGS_SUM.lv0;
 
 public class ox퀴즈 {
 //    class Solution {

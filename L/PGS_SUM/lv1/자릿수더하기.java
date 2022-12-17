@@ -1,4 +1,4 @@
-package PGS.lv1;
+package PGS_SUM.lv1;
 
 public class 자릿수더하기 {
 //    import java.util.*;

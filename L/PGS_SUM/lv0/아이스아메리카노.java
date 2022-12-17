@@ -1,4 +1,4 @@
-package PGS.lv0;
+package PGS_SUM.lv0;
 
 public class 아이스아메리카노 {
 //    class Solution {

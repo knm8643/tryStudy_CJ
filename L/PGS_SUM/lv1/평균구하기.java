@@ -1,4 +1,4 @@
-package PGS.lv1;
+package PGS_SUM.lv1;
 
 class Solution {
     //평균구하기

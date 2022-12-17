@@ -1,4 +1,4 @@
-package PGS.lv0;
+package PGS_SUM.lv0;
 
 public class 특정문자제거하기 {
 //    class Solution {

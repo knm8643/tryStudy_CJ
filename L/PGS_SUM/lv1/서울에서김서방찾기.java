@@ -1,4 +1,4 @@
-package PGS.lv1;
+package PGS_SUM.lv1;
 
 import java.util.Arrays;
 
